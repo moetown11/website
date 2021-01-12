@@ -4,18 +4,21 @@ body {
   background-color: black;
   color: blue;
   font weight: bold;
+  font-family: helvetica, arial;
 }
 
 h1 {color:
-  green;
+  white;
 font-family: helvetica, arial;
 font-family: 'Big Shoulders Stencil Text', cursive;
-font weight: bold;
+  font weight: bold;
+  font style: itallic;
+  text-align: center;
 }
 
 h2 {color: green;
 font-family: 'Big Shoulders Stencil Text', cursive;
-  }
+text-align: center;  }
 
 header {color: blue;
   font-family: 'Big Shoulders Stencil Text', cursive;
