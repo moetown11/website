@@ -27,10 +27,12 @@ font-family: 'Big Shoulders Stencil Text', cursive;
 
 h2 {color: green;
 font-family: 'Big Shoulders Stencil Text', cursive;
-text-align: center;  }
+text-align: center;
+}
 
 header {color: blue;
   font-family: 'Big Shoulders Stencil Text', cursive;
+
 }
 
 section {color: grey;
